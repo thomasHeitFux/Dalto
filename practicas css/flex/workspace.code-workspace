@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\thomas"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\JASBIR\\PROGRAMACION\\PRACTICAS"
+		},
+		{
+			"path": "..\\..\\..\\plantillas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "THOMAS CARPETA"
+	}
+}
